@@ -1,0 +1,15 @@
+# Core PDF processing
+PyMuPDF     # For extracting text from PDF
+
+# Sentence embeddings
+sentence-transformers
+
+# Semantic similarity & vector store
+scikit-learn
+faiss-cpu
+
+# Utility
+tqdm
+
+# Optional, but helpful
+numpy
